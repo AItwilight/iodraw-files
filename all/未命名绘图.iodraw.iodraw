@@ -11,7 +11,13 @@
           <mxGeometry x="450" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6T2XqBGbllpNwiLdE6ug-6" value="目标识别" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6T2XqBGbllpNwiLdE6ug-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
