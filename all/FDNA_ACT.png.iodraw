@@ -64,6 +64,9 @@
         <mxCell id="6T2XqBGbllpNwiLdE6ug-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6T2XqBGbllpNwiLdE6ug-18" target="6T2XqBGbllpNwiLdE6ug-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pvXh0zB3vp04MhwGsVOv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6T2XqBGbllpNwiLdE6ug-18" target="6T2XqBGbllpNwiLdE6ug-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6T2XqBGbllpNwiLdE6ug-18" value="态势生成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="300" y="600" width="80" height="80" as="geometry" />
         </mxCell>
@@ -74,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6T2XqBGbllpNwiLdE6ug-22" value="作战决策" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="450" y="545" width="80" height="80" as="geometry" />
+          <mxGeometry x="460" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6T2XqBGbllpNwiLdE6ug-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6T2XqBGbllpNwiLdE6ug-24" target="6T2XqBGbllpNwiLdE6ug-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
