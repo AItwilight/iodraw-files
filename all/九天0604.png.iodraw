@@ -147,6 +147,9 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-16" value="直升机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P4jdFpOnVKJtS6PlMsYs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-17" target="b4e7iP3cW1jFEwGxOOIl-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-17" value="探测功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="850" y="170" width="117" height="60" as="geometry" />
         </mxCell>
