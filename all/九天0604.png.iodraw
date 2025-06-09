@@ -76,15 +76,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4jdFpOnVKJtS6PlMsYs-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-1" target="b4e7iP3cW1jFEwGxOOIl-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="420" />
-              <mxPoint x="380" y="260" />
-              <mxPoint x="400" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-1" value="探测能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
         </mxCell>
@@ -92,7 +83,7 @@
           <mxGeometry x="210" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
