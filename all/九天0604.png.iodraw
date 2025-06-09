@@ -159,12 +159,6 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-53" target="b4e7iP3cW1jFEwGxOOIl-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-53" target="b4e7iP3cW1jFEwGxOOIl-69" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-53" target="b4e7iP3cW1jFEwGxOOIl-70" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-53" value="搜索功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="850" y="420" width="117" height="60" as="geometry" />
         </mxCell>
@@ -188,12 +182,6 @@
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-68" value="探测概率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="400" width="116" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-69" value="探测半径" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1070" y="450" width="116" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-70" value="探测周期" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1070" y="500" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-71" value="敌我正确识别率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="560" width="116" height="40" as="geometry" />
