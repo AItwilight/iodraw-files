@@ -83,10 +83,10 @@
           <mxGeometry x="210" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-8" target="b4e7iP3cW1jFEwGxOOIl-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-120" value="&lt;span style=&quot;font-size: 20px; text-wrap-mode: wrap;&quot;&gt;功能依赖网络&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;fontSize=20;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="160" width="140" height="40" as="geometry" />
+          <mxGeometry x="290" y="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-124" value="按聚合模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="10" width="140" height="40" as="geometry" />
