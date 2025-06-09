@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-1" value="探测能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-2" value="打击能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="900" width="120" height="60" as="geometry" />
@@ -270,7 +270,6 @@
             <mxPoint x="570" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="460" />
-              <mxPoint x="570" y="520" />
               <mxPoint x="550" y="590" />
               <mxPoint x="550" y="710" />
               <mxPoint x="580" y="710" />
