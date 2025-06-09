@@ -101,16 +101,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-7" target="b4e7iP3cW1jFEwGxOOIl-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="460" />
-              <mxPoint x="580" y="545" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-8" target="b4e7iP3cW1jFEwGxOOIl-16" edge="1">
           <mxGeometry relative="1" as="geometry">
