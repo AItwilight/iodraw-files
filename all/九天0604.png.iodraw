@@ -181,7 +181,7 @@
           <mxGeometry x="850" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-68" value="探测概率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1070" y="400" width="116" height="40" as="geometry" />
+          <mxGeometry x="1070" y="430" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-71" value="敌我正确识别率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="560" width="116" height="40" as="geometry" />
