@@ -241,6 +241,14 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-120" value="&lt;span style=&quot;font-size: 20px; text-wrap-mode: wrap;&quot;&gt;功能依赖网络&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;fontSize=20;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="120" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P4jdFpOnVKJtS6PlMsYs-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P4jdFpOnVKJtS6PlMsYs-13" target="b4e7iP3cW1jFEwGxOOIl-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="870" />
+              <mxPoint x="600" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-13" value="直升机打击" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="840" width="120" height="60" as="geometry" />
         </mxCell>
