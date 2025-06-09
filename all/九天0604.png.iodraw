@@ -63,15 +63,14 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-0" target="b4e7iP3cW1jFEwGxOOIl-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="765" />
               <mxPoint x="140" y="750" />
-              <mxPoint x="190" y="750" />
-              <mxPoint x="190" y="960" />
+              <mxPoint x="180" y="750" />
+              <mxPoint x="180" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-0" value="反潜作战能力" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="720" width="130" height="60" as="geometry" />
+          <mxGeometry x="10" y="720" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-1" target="b4e7iP3cW1jFEwGxOOIl-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
