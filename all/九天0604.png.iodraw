@@ -242,27 +242,6 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-120" value="&lt;span style=&quot;font-size: 20px; text-wrap-mode: wrap;&quot;&gt;功能依赖网络&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;fontSize=20;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="120" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-124" value="按聚合模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="10" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-125" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080" y="61.82" as="sourcePoint" />
-            <mxPoint x="960" y="61.57" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-126" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;归&lt;font style=&quot;font-size: 24px;&quot;&gt;一&lt;/font&gt;化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="967" y="10" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-127" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="60.25" as="sourcePoint" />
-            <mxPoint x="730" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-128" value="条件值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="740" y="10" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-137" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="60.25" as="sourcePoint" />
