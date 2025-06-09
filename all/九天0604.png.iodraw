@@ -93,15 +93,6 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-6" value="UUV探测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P4jdFpOnVKJtS6PlMsYs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-7" target="b4e7iP3cW1jFEwGxOOIl-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="565" y="320" />
-              <mxPoint x="565" y="380" />
-              <mxPoint x="610" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-7" value="USV探测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -137,6 +128,9 @@
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-10" value="指控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P4jdFpOnVKJtS6PlMsYs-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-13" target="b4e7iP3cW1jFEwGxOOIl-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-13" value="USV打击" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="730" width="120" height="60" as="geometry" />
