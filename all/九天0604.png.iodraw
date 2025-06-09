@@ -156,12 +156,6 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-17" value="搜索功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="850" y="170" width="117" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="970" y="370" as="sourcePoint" />
-            <mxPoint x="1070" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-19" value="探测半径" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="200" width="116" height="40" as="geometry" />
         </mxCell>
@@ -197,15 +191,6 @@
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-59" value="探测概率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="130" width="116" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="300" />
-              <mxPoint x="790" y="370" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-66" target="b4e7iP3cW1jFEwGxOOIl-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
