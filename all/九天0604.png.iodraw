@@ -145,7 +145,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-16" value="直升机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-17" target="b4e7iP3cW1jFEwGxOOIl-19">
           <mxGeometry relative="1" as="geometry" />
@@ -238,7 +238,7 @@
           <mxGeometry x="400" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-15" value="大型舰艇" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
