@@ -257,10 +257,20 @@
           <mxGeometry x="400" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P4jdFpOnVKJtS6PlMsYs-15" target="P4jdFpOnVKJtS6PlMsYs-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="900" />
+              <mxPoint x="800" y="930" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P4jdFpOnVKJtS6PlMsYs-15" target="P4jdFpOnVKJtS6PlMsYs-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="900" />
+              <mxPoint x="800" y="1030" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-15" value="大型舰艇" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="870" width="120" height="60" as="geometry" />
@@ -275,7 +285,12 @@
           <mxGeometry x="853" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P4jdFpOnVKJtS6PlMsYs-15" target="P4jdFpOnVKJtS6PlMsYs-26">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="900" />
+              <mxPoint x="800" y="822" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
