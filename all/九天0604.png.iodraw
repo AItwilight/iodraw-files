@@ -71,9 +71,8 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-1" target="b4e7iP3cW1jFEwGxOOIl-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="420" />
-              <mxPoint x="380" y="460" />
-              <mxPoint x="410" y="460" />
+              <mxPoint x="400" y="420" />
+              <mxPoint x="400" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,13 +94,13 @@
           <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-8" target="b4e7iP3cW1jFEwGxOOIl-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="550" />
-              <mxPoint x="530" y="725" />
+              <mxPoint x="560" y="550" />
+              <mxPoint x="560" y="725" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -229,18 +228,6 @@
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-71" value="敌我正确识别率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="560" width="116" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-7" target="b4e7iP3cW1jFEwGxOOIl-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="510" as="sourcePoint" />
-            <mxPoint x="570" y="460" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="460" />
-              <mxPoint x="550" y="590" />
-              <mxPoint x="550" y="710" />
-              <mxPoint x="580" y="710" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-85" value="敌我正确识别率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="660" width="116" height="40" as="geometry" />
