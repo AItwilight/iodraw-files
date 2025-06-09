@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-114" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;dashed=1;dashPattern=12 12;strokeColor=#000000;rounded=1;shadow=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="80" width="1221" height="1040" as="geometry" />
+          <mxGeometry x="10" y="70" width="1221" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-115" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;" parent="b4e7iP3cW1jFEwGxOOIl-114" vertex="1">
           <mxGeometry width="1221" height="1040" as="geometry" />
@@ -54,9 +54,6 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-0" target="b4e7iP3cW1jFEwGxOOIl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-0" target="b4e7iP3cW1jFEwGxOOIl-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-0" target="b4e7iP3cW1jFEwGxOOIl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -78,14 +75,8 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-1" value="探测能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-2" value="能力2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-3" value="能力3" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-4" value="能力4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="b4e7iP3cW1jFEwGxOOIl-2" value="打击能力" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="b4e7iP3cW1jFEwGxOOIl-15" edge="1">
           <mxGeometry relative="1" as="geometry">
