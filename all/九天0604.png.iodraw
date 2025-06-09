@@ -122,14 +122,8 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-9" value="大型舰艇&lt;br&gt;探测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P4jdFpOnVKJtS6PlMsYs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-10" target="P4jdFpOnVKJtS6PlMsYs-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="565" y="630" />
-              <mxPoint x="565" y="910" />
-              <mxPoint x="610" y="910" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="P4jdFpOnVKJtS6PlMsYs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-10" target="P4jdFpOnVKJtS6PlMsYs-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-10" value="指控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
