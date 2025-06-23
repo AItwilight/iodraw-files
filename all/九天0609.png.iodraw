@@ -329,7 +329,7 @@
           <mxGeometry x="1067" y="910" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-61" value="大型舰艇_打击效果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1067" y="1010" width="116" height="50" as="geometry" />
+          <mxGeometry x="1070" y="1000" width="123" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
