@@ -251,10 +251,10 @@
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-71" value="USV打击效果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="470" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-85" value="直升机_探测概率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="b4e7iP3cW1jFEwGxOOIl-85" value="直升机探测概率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1067" y="560" width="163" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-87" value="直升机_打击效果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="b4e7iP3cW1jFEwGxOOIl-87" value="直升机打击效果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="700" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-120" value="&lt;span style=&quot;font-size: 20px; text-wrap-mode: wrap;&quot;&gt;功能依赖网络&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;fontSize=20;labelPosition=center;verticalLabelPosition=middle;textDirection=vertical-lr;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -328,7 +328,7 @@
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-52" value="时延" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1067" y="910" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P4jdFpOnVKJtS6PlMsYs-61" value="大型舰艇_打击效果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="P4jdFpOnVKJtS6PlMsYs-61" value="大型舰艇打击效果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="1000" width="123" height="60" as="geometry" />
         </mxCell>
       </root>
