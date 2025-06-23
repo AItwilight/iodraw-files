@@ -215,7 +215,7 @@
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b4e7iP3cW1jFEwGxOOIl-17" target="b4e7iP3cW1jFEwGxOOIl-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b4e7iP3cW1jFEwGxOOIl-17" value="探测功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="b4e7iP3cW1jFEwGxOOIl-17" value="UUV探测功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="850" y="170" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4e7iP3cW1jFEwGxOOIl-19" value="UUV探测概率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
