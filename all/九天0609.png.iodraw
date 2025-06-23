@@ -322,8 +322,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4jdFpOnVKJtS6PlMsYs-51" value="探测概率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1067" y="810" width="116" height="40" as="geometry" />
+        <mxCell id="P4jdFpOnVKJtS6PlMsYs-51" value="主动探测半径" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1067" y="810" width="123" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P4jdFpOnVKJtS6PlMsYs-52" value="时延" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1067" y="910" width="116" height="40" as="geometry" />
